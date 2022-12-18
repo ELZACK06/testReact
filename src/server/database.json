@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "zakaria.elhoumi1@gmail.com",
+      "name": "ELHOUMI",
+      "lastname": "ZAKARIA",
+      "tel": "0605408520",
+      "id": 1
+    },
+    {
+      "email": "zakaria.elhoumi1@gmail.com",
+      "name": "ELHOUMI",
+      "lastname": "66",
+      "tel": "0605408520",
+      "id": 2
+    }
+  ]
+}
